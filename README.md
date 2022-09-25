@@ -1,5 +1,5 @@
 # normal-unicode-characters
-Non broken characters full Unicode list.
+Non broken UTF-8 characters full Unicode list.
 
 
 __________________________________________________________
